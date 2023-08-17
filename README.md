@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![Exp-02 Drawing v1_page-0001](https://github.com/Gchethankumar/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/118348224/02e4c1d9-2f41-4bf8-822b-db217a280fc2)
+
  
  ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+ Thus, the given sketch is drawn and drafted using fusion 360 tool.
